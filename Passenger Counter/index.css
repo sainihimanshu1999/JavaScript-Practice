@@ -1,0 +1,26 @@
+body{
+    background-color: snow ;
+}
+
+#count-el{
+    background-color: purple;
+    color: tomato;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    border-radius: 7px;
+
+}
+
+#increment-btn{
+    background-color: green;
+    margin:5px;
+    padding: 50px;
+}
+
+#save-btn{
+    background-color: magenta;
+    margin:5px;
+    padding: 50px;
+}
